@@ -4,12 +4,14 @@
   "description": "",
   "main": "hn-reading-time.user.js",
   "scripts": {
+    "start:firefox": "web-ext run --source-dir ./",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "jquery": "^3.2.1"
+  "dependencies": {},
+  "devDependencies": {
+    "web-ext": "^2.6.0"
   }
 }

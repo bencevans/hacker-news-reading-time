@@ -5,11 +5,15 @@
     "description": "Add reading time to HN articles",
     "author": "Ben Evans",
     "homepage_url": "https://github.com/bencevans/hn-reading-time",
+    "permissions": [
+        "*://developer.mozilla.org/*",
+        "*://reado.dockstudios.co.uk/*"
+    ],
     "content_scripts": 
     [
         {
             "matches": ["*://news.ycombinator.com/*"],
-            "js": ["node_modules/jquery/dist/jquery.min.js", "hn-reading-time.user.js"],
+            "js": ["hn-reading-time.user.js"],
             "run_at": "document_end"
         }
     ]
