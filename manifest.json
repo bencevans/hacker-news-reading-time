@@ -6,7 +6,6 @@
     "author": "Ben Evans",
     "homepage_url": "https://github.com/bencevans/hacker-news-reading-time",
     "permissions": [
-        "*://developer.mozilla.org/*",
         "*://reado.dockstudios.co.uk/*"
     ],
     "content_scripts": 
