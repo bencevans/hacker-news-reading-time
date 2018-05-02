@@ -4,7 +4,7 @@
 
 ## Install
 
-TODO: Chrome + Firefox
+Available from the [Mozilla Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-reading-time/) or Chrome Webstore (TODO).
 
 ## Development
 
@@ -12,4 +12,6 @@ TODO: Chrome + Firefox
 2. npm install
 3. npm run start:firefox
 
+## Licence
 
+MIT &copy; [Ben Evans](https://bencevans.io)
