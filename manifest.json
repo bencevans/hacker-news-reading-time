@@ -4,7 +4,7 @@
     "version": "1.0",
     "description": "Add reading time to HN articles",
     "author": "Ben Evans",
-    "homepage_url": "https://github.com/bencevans/hn-reading-time",
+    "homepage_url": "https://github.com/bencevans/hacker-news-reading-time",
     "permissions": [
         "*://developer.mozilla.org/*",
         "*://reado.dockstudios.co.uk/*"
