@@ -1,12 +1,17 @@
 
+<h1 align="center">
+  <br>
+  <a href="https://github.com/bencevans/hacker-news-reading-time"><img src="assets/logo.svg" alt="hacker-news-reading-time logo" width="200"></a>
+  <br>
+  <br/>
+  Hacker News Reading Time
+  <br>
+  <br>
+</h1>
 
-<center>
-    <img src="assets/logo.svg" width=128/>
-    <h1>Hacker News Reading Time</h1>
-    <p>Browser extension adding a reading time metric to each <a href="https://news.ycombinator.com">Hacker News</a> story.</p>
-</center>
-
-
+<p align="center">
+  <b>Browser extension adding a reading time metric to each <a href="https://news.ycombinator.com">Hacker News</a> story.</b>
+</p>
 
 
 
