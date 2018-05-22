@@ -17,13 +17,27 @@
 
 ## Install
 
-Available from the [Mozilla Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-reading-time/) or Chrome Webstore (TODO).
+Available from the [Mozilla Firefox Addon Store](https://addons.mozilla.org/en-US/firefox/addon/hacker-news-reading-time/) or [Chrome Webstore](https://chrome.google.com/webstore/detail/hacker-news-reading-time/oepadbhedpegnnijmhcobkenjhijkmal).
 
 ## Development
 
-1. clone repo
-2. npm install
-3. npm run start:firefox
+Autoreloading plugin for development
+
+* `git clone git@github.com:bencevans/hacker-news-reading-time.git`
+* `npm install`
+* `npm run start:firefox`
+
+Building a bundle for publishing
+
+* `npx web-ext build --source-dir src`
+
+Publishing for Chrome
+
+* https://chrome.google.com/webstore/developer/
+
+Publishing for Firefox
+
+* https://addons.mozilla.org/en-GB/developers/
 
 ## Licence
 
