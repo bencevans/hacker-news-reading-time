@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {},
   "devDependencies": {
-    "web-ext": "^3.1.1"
+    "web-ext": "^5.1.0"
   }
 }
