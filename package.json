@@ -10,8 +10,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
-    "web-ext": "^5.1.0"
+    "web-ext": "^6.1.0"
   }
 }
