@@ -5,7 +5,7 @@
   "description": "Add a reading time metric to each Hacker News story",
   "author": "Ben Evans",
   "homepage_url": "https://github.com/bencevans/hacker-news-reading-time",
-  "permissions": ["*://reado.dockstudios.co.uk/*"],
+  "permissions": ["https://reado.herokuapp.com/*"],
   "content_scripts": [
     {
       "matches": ["*://news.ycombinator.com/*"],
