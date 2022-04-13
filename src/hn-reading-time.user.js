@@ -1,4 +1,4 @@
-const stories = document.getElementsByClassName('storylink')
+const stories = document.getElementsByClassName('titlelink')
 const els = document.getElementsByClassName('subtext')
 
 for (let index = 0; index < els.length; index++) {
